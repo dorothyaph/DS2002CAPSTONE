@@ -1,0 +1,991 @@
+product_id,product_name,category
+290176255,Bell Pepper,Fruits & Vegetables
+795698856,Vegetable Oil,Oils & Fats
+281462641,Parmesan Cheese,Dairy
+115819869,Carrot,Fruits & Vegetables
+132024809,Garlic,Fruits & Vegetables
+701452550,Lemon,Fruits & Vegetables
+106268536,Coconut Sugar,Grains & Pulses
+428799478,Anchovies,Seafood
+823805378,Cheese,Dairy
+232658144,Yogurt,Dairy
+623939939,Cheddar Cheese,Dairy
+903439640,Avocado Oil,Oils & Fats
+368995324,Orange,Fruits & Vegetables
+415383129,Digestive Biscuit,Bakery
+478438207,Cauliflower,Fruits & Vegetables
+940712261,Pear,Fruits & Vegetables
+129983882,Egg (Turkey),Dairy
+361274273,Ricotta Cheese,Dairy
+131442169,Eggplant,Fruits & Vegetables
+869786666,Whole Wheat Flour,Grains & Pulses
+406819981,Arabica Coffee,Beverages
+139626263,Sweet Potato,Fruits & Vegetables
+100026494,Mango,Fruits & Vegetables
+297418132,Kale,Fruits & Vegetables
+308063823,Jasmine Rice,Grains & Pulses
+710746292,Sourdough Bread,Bakery
+957384658,Green Coffee,Beverages
+551544728,Arabica Coffee,Beverages
+462553073,Tilapia,Seafood
+956400293,Arborio Rice,Grains & Pulses
+452504679,Bread Flour,Grains & Pulses
+38333577,Cucumber,Fruits & Vegetables
+89613009,Cheese,Dairy
+204054865,Milk,Dairy
+493779731,Lime,Fruits & Vegetables
+398102042,Rice Flour,Grains & Pulses
+538059523,Sourdough Bread,Bakery
+143055348,Cheese,Dairy
+514595630,Sour Cream,Dairy
+881835781,Whole Wheat Bread,Bakery
+417359837,Robusta Coffee,Beverages
+889770175,Chocolate Biscuit,Bakery
+663272821,Palm Oil,Oils & Fats
+81143922,Anchovies,Seafood
+950902788,Sesame Oil,Oils & Fats
+266903784,Lettuce,Fruits & Vegetables
+467538430,Feta Cheese,Dairy
+159057750,Apricot,Fruits & Vegetables
+118918213,Peanut Oil,Oils & Fats
+828117988,Olive Oil,Oils & Fats
+317464951,Whole Wheat Flour,Grains & Pulses
+973007511,Egg (Duck),Dairy
+883042855,Pineapple,Fruits & Vegetables
+530082419,Jasmine Rice,Grains & Pulses
+763404432,Cucumber,Fruits & Vegetables
+260109519,Trout,Seafood
+89408578,Onion,Fruits & Vegetables
+543749986,Cream,Dairy
+676259704,Sardines,Seafood
+566356764,Sourdough Bread,Bakery
+104450741,Anchovies,Seafood
+765844790,Peanut Oil,Oils & Fats
+574371828,Plum,Fruits & Vegetables
+627776010,Sushi Rice,Grains & Pulses
+69553428,Black Rice,Grains & Pulses
+47580410,Wild Rice,Grains & Pulses
+66555498,Wild Rice,Grains & Pulses
+764017083,Pomegranate,Fruits & Vegetables
+304292162,Black Rice,Grains & Pulses
+497300159,Cream,Dairy
+317456850,Cabbage,Fruits & Vegetables
+694685468,Sourdough Bread,Bakery
+686364774,Carrot,Fruits & Vegetables
+211206238,All-Purpose Flour,Grains & Pulses
+929958689,Cheddar Cheese,Dairy
+150458444,Green Coffee,Beverages
+735676194,Whipped Cream,Dairy
+482428445,Plum,Fruits & Vegetables
+335079886,Pineapple,Fruits & Vegetables
+800256757,Grapes,Fruits & Vegetables
+362969609,Sunflower Oil,Oils & Fats
+560548664,Lemon,Fruits & Vegetables
+644784745,Lemon,Fruits & Vegetables
+675461568,Peanut Oil,Oils & Fats
+102182680,Egg (Turkey),Dairy
+465201819,Short Grain Rice,Grains & Pulses
+877915803,Tuna,Seafood
+714365841,Cauliflower,Fruits & Vegetables
+76791199,Onion,Fruits & Vegetables
+489578596,Banana,Fruits & Vegetables
+203251965,Coconut,Fruits & Vegetables
+510690489,Bread Flour,Grains & Pulses
+174934579,Almond Flour,Grains & Pulses
+466223434,Jasmine Rice,Grains & Pulses
+58991428,Avocado Oil,Oils & Fats
+606328752,Chocolate Biscuit,Bakery
+658549364,Black Rice,Grains & Pulses
+662688345,Greek Yogurt,Dairy
+136737016,Peach,Fruits & Vegetables
+200543716,Chocolate Biscuit,Bakery
+110730189,Plum,Fruits & Vegetables
+407937235,Sour Cream,Dairy
+568943733,Yogurt,Dairy
+831177658,Asparagus,Fruits & Vegetables
+729892512,Mushrooms,Fruits & Vegetables
+582291358,Cream,Dairy
+282755901,Anchovies,Seafood
+858068672,Black Tea,Beverages
+657180492,Olive Oil,Oils & Fats
+864826451,White Tea,Beverages
+482890604,Vegetable Oil,Oils & Fats
+218097115,White Rice,Grains & Pulses
+842699130,Long Grain Rice,Grains & Pulses
+547584622,Chocolate Biscuit,Bakery
+658674029,Peach,Fruits & Vegetables
+243109184,Rye Bread,Bakery
+539302215,Egg (Goose),Dairy
+945983383,Brown Rice,Grains & Pulses
+836253618,Asparagus,Fruits & Vegetables
+138442178,Sardines,Seafood
+51844175,Black Coffee,Beverages
+893350155,Brown Rice,Grains & Pulses
+384174656,White Sugar,Grains & Pulses
+743051263,Green Coffee,Beverages
+25083777,Egg (Quail),Dairy
+791369840,Herbal Tea,Beverages
+352990889,Coconut Oil,Oils & Fats
+415945069,Egg (Duck),Dairy
+835539523,Buttermilk,Dairy
+441123331,Tuna,Seafood
+931985984,Mango,Fruits & Vegetables
+738747534,Pomegranate,Fruits & Vegetables
+181077886,Evaporated Milk,Dairy
+639560739,Robusta Coffee,Beverages
+261775690,Cucumber,Fruits & Vegetables
+477493277,Powdered Sugar,Grains & Pulses
+577635501,Cod,Seafood
+902309767,Long Grain Rice,Grains & Pulses
+192145762,Pear,Fruits & Vegetables
+746422435,Cauliflower,Fruits & Vegetables
+472213391,Black Coffee,Beverages
+871040187,Whole Wheat Flour,Grains & Pulses
+872726544,Egg (Goose),Dairy
+63406856,Wild Rice,Grains & Pulses
+800208041,Black Rice,Grains & Pulses
+484613742,Kiwi,Fruits & Vegetables
+783628578,Lemon,Fruits & Vegetables
+605504771,Haddock,Seafood
+111557826,Arabica Coffee,Beverages
+429076946,Coconut Oil,Oils & Fats
+990488310,Tomato,Fruits & Vegetables
+854403667,Gouda Cheese,Dairy
+935717294,Sushi Rice,Grains & Pulses
+829777752,Spinach,Fruits & Vegetables
+764769996,Chocolate Biscuit,Bakery
+506792072,Canola Oil,Oils & Fats
+503293145,Milk,Dairy
+523925312,All-Purpose Flour,Grains & Pulses
+476635703,Basmati Rice,Grains & Pulses
+581222282,Black Tea,Beverages
+841512114,Brown Rice,Grains & Pulses
+936822069,Lime,Fruits & Vegetables
+487899187,Peach,Fruits & Vegetables
+858060613,Oatmeal Biscuit,Bakery
+192449890,Herbal Tea,Beverages
+602853783,Mushrooms,Fruits & Vegetables
+345470827,White Rice,Grains & Pulses
+67312162,Lemon,Fruits & Vegetables
+481931199,Canola Oil,Oils & Fats
+400037322,White Sugar,Grains & Pulses
+914170366,Grapes,Fruits & Vegetables
+245711080,Kale,Fruits & Vegetables
+220833347,Long Grain Rice,Grains & Pulses
+91011740,Sushi Rice,Grains & Pulses
+172746898,Whole Wheat Bread,Bakery
+386552312,Kale,Fruits & Vegetables
+603274114,Egg (Turkey),Dairy
+542813746,Green Beans,Fruits & Vegetables
+253497974,Spinach,Fruits & Vegetables
+163800753,Apricot,Fruits & Vegetables
+380499319,Oatmeal Biscuit,Bakery
+503293360,Wild Rice,Grains & Pulses
+196102236,Whole Wheat Bread,Bakery
+466328420,Whipped Cream,Dairy
+148362894,Apple,Fruits & Vegetables
+81962703,Peas,Fruits & Vegetables
+870975691,Robusta Coffee,Beverages
+44535485,Tomato,Fruits & Vegetables
+826788097,Cottage Cheese,Dairy
+437039939,Pineapple,Fruits & Vegetables
+284338533,Multigrain Bread,Bakery
+742340628,Almond Flour,Grains & Pulses
+28889412,Cauliflower,Fruits & Vegetables
+806586456,Mango,Fruits & Vegetables
+705871204,Black Rice,Grains & Pulses
+889519038,Black Coffee,Beverages
+453179731,Palm Oil,Oils & Fats
+638749747,Orange,Fruits & Vegetables
+445465713,Peach,Fruits & Vegetables
+230702433,Powdered Sugar,Grains & Pulses
+912573672,Tilapia,Seafood
+695612496,Banana,Fruits & Vegetables
+870136488,Sushi Rice,Grains & Pulses
+319694614,Arabica Coffee,Beverages
+962091739,Evaporated Milk,Dairy
+200223173,Bread Flour,Grains & Pulses
+445523909,Pear,Fruits & Vegetables
+409021995,Asparagus,Fruits & Vegetables
+78464804,Jasmine Rice,Grains & Pulses
+175043699,Sweet Potato,Fruits & Vegetables
+555228242,Whipped Cream,Dairy
+170229721,Apple,Fruits & Vegetables
+39400630,Sunflower Oil,Oils & Fats
+715946552,Long Grain Rice,Grains & Pulses
+202253930,White Tea,Beverages
+531515726,Grapes,Fruits & Vegetables
+777774536,Basmati Rice,Grains & Pulses
+78343320,Egg (Quail),Dairy
+517616320,Egg (Goose),Dairy
+342914939,Digestive Biscuit,Bakery
+670251245,Cabbage,Fruits & Vegetables
+639360145,Plum,Fruits & Vegetables
+274951912,Potato,Fruits & Vegetables
+475545780,Haddock,Seafood
+210133508,Cabbage,Fruits & Vegetables
+399132999,Evaporated Milk,Dairy
+823955070,Chocolate Biscuit,Bakery
+621002245,Sourdough Bread,Bakery
+97123630,Grapes,Fruits & Vegetables
+250109478,Eggplant,Fruits & Vegetables
+39199890,Halibut,Seafood
+612936327,Salmon,Seafood
+85195579,Broccoli,Fruits & Vegetables
+3669496,Grapes,Fruits & Vegetables
+288406096,Pomegranate,Fruits & Vegetables
+45423863,Bread Flour,Grains & Pulses
+181995799,Cheddar Cheese,Dairy
+568753717,Brown Rice,Grains & Pulses
+255226043,Gouda Cheese,Dairy
+274590724,Feta Cheese,Dairy
+750804909,Corn Oil,Oils & Fats
+79709352,Bell Pepper,Fruits & Vegetables
+261349069,Whipped Cream,Dairy
+83962704,White Sugar,Grains & Pulses
+249754231,Green Beans,Fruits & Vegetables
+281979246,Powdered Sugar,Grains & Pulses
+770131553,Canola Oil,Oils & Fats
+837162177,Halibut,Seafood
+551647723,Halibut,Seafood
+227783553,Cheddar Cheese,Dairy
+143313739,Avocado Oil,Oils & Fats
+475784161,Anchovies,Seafood
+598576577,Evaporated Milk,Dairy
+25598196,Mango,Fruits & Vegetables
+139009016,Bell Pepper,Fruits & Vegetables
+151449413,Strawberries,Fruits & Vegetables
+655279488,Grapes,Fruits & Vegetables
+748183306,Spinach,Fruits & Vegetables
+601987050,Green Tea,Beverages
+820417211,Swiss Cheese,Dairy
+170024721,Green Beans,Fruits & Vegetables
+744040582,Cherry,Fruits & Vegetables
+735612867,Sourdough Bread,Bakery
+451944094,Plum,Fruits & Vegetables
+923623567,Tomato,Fruits & Vegetables
+969612193,Jasmine Rice,Grains & Pulses
+926523737,Zucchini,Fruits & Vegetables
+896731543,Digestive Biscuit,Bakery
+708154015,Butter Biscuit,Bakery
+907370044,Black Rice,Grains & Pulses
+674737093,Black Tea,Beverages
+226212774,Strawberries,Fruits & Vegetables
+152406267,Eggplant,Fruits & Vegetables
+751528731,Pear,Fruits & Vegetables
+409139772,Egg (Chicken),Dairy
+293777040,Short Grain Rice,Grains & Pulses
+727806006,Sunflower Oil,Oils & Fats
+911277489,Orange,Fruits & Vegetables
+176470503,Cod,Seafood
+918480606,Onion,Fruits & Vegetables
+117453025,Peach,Fruits & Vegetables
+298236004,Zucchini,Fruits & Vegetables
+217186746,Coconut,Fruits & Vegetables
+866922312,Avocado Oil,Oils & Fats
+541098062,Sushi Rice,Grains & Pulses
+749439034,White Bread,Bakery
+713002191,Broccoli,Fruits & Vegetables
+651459672,Long Grain Rice,Grains & Pulses
+939667754,Pineapple,Fruits & Vegetables
+272169671,Sesame Oil,Oils & Fats
+445383366,Tuna,Seafood
+340750371,Watermelon,Fruits & Vegetables
+249726969,Cheese,Dairy
+924552959,Robusta Coffee,Beverages
+581826781,Oatmeal Biscuit,Bakery
+421349798,Canola Oil,Oils & Fats
+182782383,Gouda Cheese,Dairy
+35979488,Buttermilk,Dairy
+146817035,White Tea,Beverages
+14396231,Sunflower Oil,Oils & Fats
+259117736,Orange,Fruits & Vegetables
+369182937,Green Coffee,Beverages
+376663902,Cauliflower,Fruits & Vegetables
+277574489,Egg (Goose),Dairy
+970403822,Swiss Cheese,Dairy
+984457372,Cod,Seafood
+921525820,Black Tea,Beverages
+249865091,Vanilla Biscuit,Bakery
+228492551,Mushrooms,Fruits & Vegetables
+151698058,Bread Flour,Grains & Pulses
+789532073,Canola Oil,Oils & Fats
+102558579,Basmati Rice,Grains & Pulses
+829482298,Kiwi,Fruits & Vegetables
+607478704,Papaya,Fruits & Vegetables
+404622952,Trout,Seafood
+982352711,Asparagus,Fruits & Vegetables
+831081174,White Bread,Bakery
+285058317,Watermelon,Fruits & Vegetables
+318035001,Asparagus,Fruits & Vegetables
+172360566,Sweet Potato,Fruits & Vegetables
+760904411,Ricotta Cheese,Dairy
+439102342,Plum,Fruits & Vegetables
+54250746,Onion,Fruits & Vegetables
+938150565,Sesame Oil,Oils & Fats
+672707464,Jasmine Rice,Grains & Pulses
+618274098,Cod,Seafood
+922917089,Cheese,Dairy
+760701411,Evaporated Milk,Dairy
+363305036,Salmon,Seafood
+20346209,Sour Cream,Dairy
+498914927,Cottage Cheese,Dairy
+940206982,Tuna,Seafood
+888078431,Haddock,Seafood
+196728982,Butter,Dairy
+73895740,Egg (Quail),Dairy
+396295554,Egg (Goose),Dairy
+276358394,Orange,Fruits & Vegetables
+148444138,Black Coffee,Beverages
+654645070,Heavy Cream,Dairy
+469111159,Onion,Fruits & Vegetables
+356173857,Arabica Coffee,Beverages
+412375498,Cheese,Dairy
+866724191,Egg (Goose),Dairy
+105555971,Sourdough Bread,Bakery
+450504720,Black Rice,Grains & Pulses
+739976251,Bell Pepper,Fruits & Vegetables
+534468243,Orange,Fruits & Vegetables
+127989401,Cream,Dairy
+930144256,Green Beans,Fruits & Vegetables
+609113745,Black Rice,Grains & Pulses
+531469979,Powdered Sugar,Grains & Pulses
+657805622,Butter Biscuit,Bakery
+298967926,White Rice,Grains & Pulses
+670277269,Mushrooms,Fruits & Vegetables
+253532067,Papaya,Fruits & Vegetables
+723411154,Heavy Cream,Dairy
+161875729,Black Tea,Beverages
+493113063,Kiwi,Fruits & Vegetables
+986529569,Butter Biscuit,Bakery
+786898958,White Tea,Beverages
+663787532,Blueberries,Fruits & Vegetables
+141158371,Chocolate Biscuit,Bakery
+765406407,Orange,Fruits & Vegetables
+815730943,Egg (Chicken),Dairy
+687325919,Jasmine Rice,Grains & Pulses
+687341585,Greek Yogurt,Fruits & Vegetables
+933428794,Bread Flour,Grains & Pulses
+421751648,Pomegranate,Fruits & Vegetables
+460837058,Haddock,Seafood
+667168221,Cheddar Cheese,Dairy
+127145135,Ricotta Cheese,Dairy
+350311497,Green Coffee,Beverages
+547087327,Jasmine Rice,Grains & Pulses
+638978088,Zucchini,Fruits & Vegetables
+794942472,Green Beans,Fruits & Vegetables
+156793935,Grapes,Fruits & Vegetables
+316081445,Papaya,Fruits & Vegetables
+702064860,Egg (Quail),Dairy
+308325429,Multigrain Bread,Bakery
+11730029,Blueberries,Fruits & Vegetables
+652357676,Whole Wheat Bread,Bakery
+794006216,Mozzarella Cheese,Dairy
+358366718,Ricotta Cheese,Dairy
+85739997,Pomegranate,Fruits & Vegetables
+668545736,Kiwi,Fruits & Vegetables
+858353445,Egg (Goose),Dairy
+107682443,Multigrain Bread,Bakery
+191121616,Lettuce,Fruits & Vegetables
+893883239,Grapes,Fruits & Vegetables
+227604605,Yogurt,Dairy
+386642155,Cauliflower,Fruits & Vegetables
+897136071,Sesame Oil,Oils & Fats
+561916497,Bread Flour,Grains & Pulses
+273893529,Haddock,Seafood
+116046002,Canola Oil,Oils & Fats
+204482972,Asparagus,Fruits & Vegetables
+779591018,Lettuce,Fruits & Vegetables
+698953397,Cucumber,Fruits & Vegetables
+329330329,Blueberries,Fruits & Vegetables
+334402588,Bell Pepper,Fruits & Vegetables
+20857218,Cheddar Cheese,Dairy
+431939915,Mozzarella Cheese,Dairy
+629987250,Evaporated Milk,Dairy
+708714536,Swiss Cheese,Dairy
+388228005,Cucumber,Fruits & Vegetables
+383902115,Potato,Fruits & Vegetables
+289684195,Eggplant,Fruits & Vegetables
+92868107,Greek Yogurt,Dairy
+4057428,Apple,Fruits & Vegetables
+438935408,Short Grain Rice,Grains & Pulses
+524815224,Kiwi,Fruits & Vegetables
+341318805,Yogurt,Dairy
+368402728,Mackerel,Seafood
+644188356,Sunflower Oil,Oils & Fats
+514620747,Lime,Fruits & Vegetables
+747117160,Sushi Rice,Grains & Pulses
+446375512,Watermelon,Fruits & Vegetables
+278811177,Green Tea,Beverages
+724045581,Almond Flour,Grains & Pulses
+120462988,Corn Oil,Oils & Fats
+218161004,Black Coffee,Beverages
+816056246,Sardines,Seafood
+118157923,Parmesan Cheese,Dairy
+264561992,Tilapia,Seafood
+631686018,Cucumber,Fruits & Vegetables
+708546891,Sourdough Bread,Bakery
+877621317,Mozzarella Cheese,Dairy
+803745711,Herbal Tea,Beverages
+604568169,Cheddar Cheese,Dairy
+995435039,Lemon,Fruits & Vegetables
+728109753,Sesame Oil,Oils & Fats
+789564737,Sushi Rice,Grains & Pulses
+464158633,Apple,Fruits & Vegetables
+66115454,Peanut Oil,Oils & Fats
+277835470,Feta Cheese,Dairy
+556975242,Ricotta Cheese,Dairy
+150829124,Apricot,Fruits & Vegetables
+69963221,Evaporated Milk,Dairy
+456340679,Haddock,Seafood
+157963130,Rye Bread,Bakery
+510008113,Green Tea,Beverages
+203877746,Powdered Sugar,Grains & Pulses
+829317126,Asparagus,Fruits & Vegetables
+556317937,Greek Yogurt,Dairy
+113384598,Potato,Fruits & Vegetables
+524029245,Broccoli,Fruits & Vegetables
+95362626,Olive Oil,Oils & Fats
+484270551,Arabica Coffee,Beverages
+67066490,Green Tea,Beverages
+291350791,Jasmine Rice,Grains & Pulses
+896247462,Asparagus,Fruits & Vegetables
+822314245,Wild Rice,Grains & Pulses
+422209305,White Sugar,Grains & Pulses
+29204829,White Bread,Bakery
+618018665,Robusta Coffee,Beverages
+11445960,Trout,Seafood
+985754736,Cucumber,Fruits & Vegetables
+309962526,Green Beans,Fruits & Vegetables
+453804627,Cabbage,Fruits & Vegetables
+475486500,Onion,Fruits & Vegetables
+305917275,Brown Rice,Grains & Pulses
+382966634,Peas,Fruits & Vegetables
+988586323,Swiss Cheese,Dairy
+697430161,Bread Flour,Grains & Pulses
+710673278,Anchovies,Seafood
+241434957,Canola Oil,Oils & Fats
+313875020,Parmesan Cheese,Dairy
+333781365,Egg (Goose),Dairy
+417295410,Sardines,Seafood
+333359140,Olive Oil,Oils & Fats
+400212400,Zucchini,Fruits & Vegetables
+812685905,Mackerel,Seafood
+386177226,Mushrooms,Fruits & Vegetables
+548229009,Cauliflower,Grains & Pulses
+26553240,Rice Flour,Grains & Pulses
+18396534,Short Grain Rice,Grains & Pulses
+984992220,Parmesan Cheese,Dairy
+691711305,Brown Rice,Grains & Pulses
+573944703,White Tea,Beverages
+589465152,Bread Flour,Grains & Pulses
+745872065,Pear,Fruits & Vegetables
+692879113,Zucchini,Fruits & Vegetables
+34414252,Yogurt,Dairy
+293443658,Lime,Fruits & Vegetables
+123424482,Trout,Seafood
+998944351,White Sugar,Grains & Pulses
+347099237,Carrot,Fruits & Vegetables
+54987751,Cauliflower,Fruits & Vegetables
+322701385,Greek Yogurt,Fruits & Vegetables
+677105120,Bread Flour,Grains & Pulses
+377093532,Mushrooms,Fruits & Vegetables
+603115701,Sesame Oil,Oils & Fats
+970934278,Buttermilk,Dairy
+411313841,Almond Flour,Grains & Pulses
+406301431,Cherry,Fruits & Vegetables
+644935270,Palm Oil,Oils & Fats
+72198017,Palm Oil,Oils & Fats
+737514393,Onion,Fruits & Vegetables
+509422409,Peas,Fruits & Vegetables
+10186418,Chocolate Biscuit,Bakery
+597254038,Arabica Coffee,Beverages
+409972786,Yogurt,Dairy
+117668738,Watermelon,Fruits & Vegetables
+408604532,Arabica Coffee,Beverages
+559362406,Bread Flour,Grains & Pulses
+628168794,Rice Flour,Grains & Pulses
+41046993,Buttermilk,Dairy
+358355591,Tilapia,Seafood
+837046367,Arabica Coffee,Beverages
+607710879,Blueberries,Fruits & Vegetables
+272695260,Pineapple,Fruits & Vegetables
+200310532,Mango,Fruits & Vegetables
+193230506,Halibut,Seafood
+464529419,Egg (Duck),Dairy
+904920564,Pomegranate,Fruits & Vegetables
+173951121,Plum,Fruits & Vegetables
+834009746,Mozzarella Cheese,Dairy
+198543663,Watermelon,Fruits & Vegetables
+571670669,Haddock,Seafood
+769541442,Arabica Coffee,Beverages
+837635038,Buttermilk,Dairy
+803759075,Swiss Cheese,Dairy
+873919658,Corn Oil,Oils & Fats
+677256830,Brown Rice,Grains & Pulses
+120939863,Arborio Rice,Grains & Pulses
+444087594,Eggplant,Fruits & Vegetables
+46378815,Apricot,Fruits & Vegetables
+887469468,Onion,Fruits & Vegetables
+329875559,Green Tea,Beverages
+24840206,Short Grain Rice,Grains & Pulses
+804417249,Wild Rice,Grains & Pulses
+413168427,Arborio Rice,Grains & Pulses
+566685370,Vegetable Oil,Oils & Fats
+451727012,Papaya,Fruits & Vegetables
+930150811,Pineapple,Fruits & Vegetables
+520292382,Coconut Oil,Oils & Fats
+280444102,Papaya,Fruits & Vegetables
+348614446,Ricotta Cheese,Dairy
+803340215,Grapes,Fruits & Vegetables
+946972396,Sourdough Bread,Bakery
+760274850,Onion,Fruits & Vegetables
+159073681,Plum,Fruits & Vegetables
+6418691,Black Coffee,Beverages
+157621058,Lime,Fruits & Vegetables
+577794955,Black Rice,Grains & Pulses
+684361268,Egg (Duck),Dairy
+260001012,Parmesan Cheese,Dairy
+750941179,Rye Bread,Bakery
+110329778,Peas,Fruits & Vegetables
+244788277,Multigrain Bread,Bakery
+122399399,Potato,Fruits & Vegetables
+833217887,Egg (Duck),Dairy
+803713695,Cottage Cheese,Dairy
+491996836,Tomato,Fruits & Vegetables
+855102915,White Bread,Bakery
+86379335,Lettuce,Fruits & Vegetables
+852122729,Egg (Turkey),Dairy
+514694611,Long Grain Rice,Grains & Pulses
+349282775,Coconut,Fruits & Vegetables
+326761026,Salmon,Seafood
+530808252,Sourdough Bread,Bakery
+495267806,Kale,Fruits & Vegetables
+311571822,Ricotta Cheese,Dairy
+914263204,Haddock,Seafood
+641097362,Anchovies,Seafood
+684186724,Parmesan Cheese,Dairy
+938132419,Digestive Biscuit,Bakery
+521238039,Pomegranate,Fruits & Vegetables
+746665671,Tuna,Seafood
+261616692,Zucchini,Fruits & Vegetables
+443687112,Corn Oil,Oils & Fats
+18205784,Egg (Duck),Dairy
+103789729,Cabbage,
+394795147,Tuna,Seafood
+952626208,Black Tea,Beverages
+372486266,Pear,Fruits & Vegetables
+438519440,Lime,Fruits & Vegetables
+110530107,Cherry,Fruits & Vegetables
+286080039,Lemon,Fruits & Vegetables
+963342593,White Tea,Beverages
+730108323,Tuna,Seafood
+862739377,White Rice,Grains & Pulses
+353534068,Bread Flour,Grains & Pulses
+29748526,Onion,Fruits & Vegetables
+952529619,Carrot,Fruits & Vegetables
+434697551,Arabica Coffee,Beverages
+84956853,Heavy Cream,Dairy
+835560996,Powdered Sugar,Grains & Pulses
+652820419,White Tea,Beverages
+954491286,Egg (Chicken),Dairy
+5349775,Black Coffee,Beverages
+96182842,White Sugar,Grains & Pulses
+746102295,Green Coffee,Beverages
+172651899,Orange,Fruits & Vegetables
+63365482,Sardines,Seafood
+202830111,Pear,Fruits & Vegetables
+779371108,White Sugar,Grains & Pulses
+73379889,Cauliflower,Fruits & Vegetables
+815787404,Gouda Cheese,Dairy
+903031821,Onion,Fruits & Vegetables
+424957698,Sushi Rice,Grains & Pulses
+571010060,Whole Wheat Flour,Grains & Pulses
+995614871,Haddock,Seafood
+401260515,Carrot,Fruits & Vegetables
+193775021,Mackerel,Seafood
+606446596,Trout,Seafood
+827110772,Egg (Goose),Dairy
+558033964,Bread Flour,Grains & Pulses
+1198780,Halibut,Seafood
+138880149,Lime,Fruits & Vegetables
+512734240,Multigrain Bread,Bakery
+233953157,Vegetable Oil,Oils & Fats
+31499760,Whipped Cream,Dairy
+28957781,Coconut Sugar,Grains & Pulses
+953548583,Long Grain Rice,Grains & Pulses
+276815588,Anchovies,Seafood
+705347796,Zucchini,Fruits & Vegetables
+720664597,Broccoli,Fruits & Vegetables
+798848810,Cucumber,Fruits & Vegetables
+87031382,Peach,Fruits & Vegetables
+393153936,Heavy Cream,Dairy
+66902335,Jasmine Rice,Grains & Pulses
+431538268,Vegetable Oil,Oils & Fats
+446348292,Whole Wheat Flour,Grains & Pulses
+967740457,Cod,Seafood
+509304751,Salmon,Seafood
+639188253,Mango,Fruits & Vegetables
+846291532,Arabica Coffee,Beverages
+773126317,Spinach,Fruits & Vegetables
+216938216,Corn Oil,Oils & Fats
+744308245,Peach,Fruits & Vegetables
+394490772,Feta Cheese,Dairy
+513128608,Cheddar Cheese,Dairy
+895433456,Blueberries,Fruits & Vegetables
+578614379,Swiss Cheese,Dairy
+397688205,Egg (Turkey),Dairy
+951309020,Heavy Cream,Dairy
+25751980,Plum,Fruits & Vegetables
+228956595,Rice Flour,Grains & Pulses
+852074164,Eggplant,Fruits & Vegetables
+267993714,Robusta Coffee,Beverages
+579036434,Tomato,Fruits & Vegetables
+802276886,Garlic,Fruits & Vegetables
+312559616,Tuna,Seafood
+376101999,Halibut,Seafood
+863300214,Arabica Coffee,Beverages
+295927315,Arborio Rice,Grains & Pulses
+862574613,Jasmine Rice,Grains & Pulses
+793505841,Jasmine Rice,Grains & Pulses
+223297791,Watermelon,Fruits & Vegetables
+108545467,Canola Oil,Oils & Fats
+706122531,Pineapple,Fruits & Vegetables
+715161996,Corn Oil,Oils & Fats
+719992404,Mango,Fruits & Vegetables
+298756900,Papaya,Fruits & Vegetables
+119223342,Black Coffee,Beverages
+745627431,Vanilla Biscuit,Bakery
+953572870,Arborio Rice,Grains & Pulses
+42775245,Coconut Sugar,Grains & Pulses
+911057317,Orange,Fruits & Vegetables
+372460018,Broccoli,Fruits & Vegetables
+274740056,Spinach,Fruits & Vegetables
+124398428,Eggplant,Fruits & Vegetables
+566574387,White Bread,Bakery
+912909062,Digestive Biscuit,Bakery
+65035891,Egg (Goose),Dairy
+370647275,Robusta Coffee,Beverages
+219935632,Watermelon,Fruits & Vegetables
+57208792,Carrot,Fruits & Vegetables
+365314087,Almond Flour,Grains & Pulses
+616809496,Apple,Fruits & Vegetables
+366364873,Black Rice,Grains & Pulses
+459925653,Whole Wheat Flour,Grains & Pulses
+857815386,Salmon,Seafood
+764592392,Palm Oil,Oils & Fats
+927910606,Short Grain Rice,Grains & Pulses
+871992743,Papaya,Fruits & Vegetables
+40381547,Rye Bread,Bakery
+839177384,Garlic,Fruits & Vegetables
+945256925,Rye Bread,Bakery
+166321308,Arabica Coffee,Beverages
+137983397,Egg (Turkey),Dairy
+698342874,Oatmeal Biscuit,Bakery
+603433288,Tilapia,Seafood
+216509319,White Bread,Bakery
+145502152,Green Tea,Beverages
+615827399,Apricot,Fruits & Vegetables
+281074953,Chocolate Biscuit,Bakery
+530508242,Mackerel,Seafood
+885868797,Grapes,Fruits & Vegetables
+937723085,Banana,Fruits & Vegetables
+40011793,Green Coffee,Beverages
+101379759,Watermelon,Fruits & Vegetables
+966828546,Egg (Chicken),Dairy
+76176934,Coconut Sugar,Grains & Pulses
+431645984,Butter,Dairy
+70741196,Plum,Fruits & Vegetables
+51938096,Grapes,Fruits & Vegetables
+928378839,Vegetable Oil,Oils & Fats
+603437973,Multigrain Bread,Bakery
+762640748,Eggplant,Fruits & Vegetables
+671304114,Bell Pepper,Fruits & Vegetables
+999610767,Heavy Cream,Dairy
+242286840,Herbal Tea,Beverages
+835734586,Sesame Oil,Oils & Fats
+806980324,Butter Biscuit,Bakery
+835683475,Halibut,Seafood
+158467959,Zucchini,Fruits & Vegetables
+981480940,Egg (Chicken),Dairy
+763259093,Sesame Oil,Oils & Fats
+100347654,Bread Flour,Grains & Pulses
+216338696,Coconut Sugar,Grains & Pulses
+741814135,Egg (Chicken),Dairy
+980644465,Mozzarella Cheese,Dairy
+414755305,Rye Bread,Bakery
+809884653,Zucchini,Fruits & Vegetables
+515836029,Digestive Biscuit,Bakery
+632707076,Multigrain Bread,Bakery
+701496756,Heavy Cream,Dairy
+989099395,Cottage Cheese,Dairy
+356212546,Swiss Cheese,Dairy
+245796500,Anchovies,Seafood
+17038441,Raw Sugar,Grains & Pulses
+617966540,Ricotta Cheese,Dairy
+163548122,Digestive Biscuit,Bakery
+675129754,Egg (Turkey),Dairy
+113168405,Mango,Fruits & Vegetables
+363722295,Basmati Rice,Grains & Pulses
+840757647,Canola Oil,Oils & Fats
+82265155,Bell Pepper,Fruits & Vegetables
+464962930,Pomegranate,Fruits & Vegetables
+2157434,Egg (Goose),Dairy
+128281063,Mozzarella Cheese,Dairy
+487706319,Egg (Duck),Dairy
+443051866,Butter,Dairy
+972834840,Palm Oil,Oils & Fats
+353288392,Long Grain Rice,Grains & Pulses
+436932092,Butter,Dairy
+478025023,Cod,Seafood
+240091208,White Tea,Beverages
+985565323,Pomegranate,Fruits & Vegetables
+145214167,Buttermilk,Dairy
+616077622,Egg (Duck),Dairy
+68494869,Sesame Oil,Oils & Fats
+415264036,Whipped Cream,Dairy
+495708214,Sour Cream,Dairy
+855614694,Kiwi,Fruits & Vegetables
+266295920,Rye Bread,Bakery
+750299003,Sourdough Bread,Bakery
+794288753,Cabbage,Fruits & Vegetables
+343697712,Apricot,Fruits & Vegetables
+221419798,White Sugar,Grains & Pulses
+389243007,Peas,Fruits & Vegetables
+700055970,Apple,Fruits & Vegetables
+190215024,Broccoli,Fruits & Vegetables
+314036234,Tuna,Seafood
+190474239,Peach,Fruits & Vegetables
+290923453,Spinach,Fruits & Vegetables
+289561320,Greek Yogurt,Dairy
+880695486,Cod,Seafood
+977102449,Rye Bread,Bakery
+842720790,Blueberries,Fruits & Vegetables
+896026755,Milk,Dairy
+631629244,Eggplant,Fruits & Vegetables
+495794325,Ricotta Cheese,Dairy
+965037712,White Bread,Bakery
+562130577,Papaya,Fruits & Vegetables
+249893302,Coconut,Fruits & Vegetables
+799202395,Mushrooms,Fruits & Vegetables
+731181117,Olive Oil,Oils & Fats
+656746076,Egg (Quail),Dairy
+663125511,Anchovies,Seafood
+580055343,Cucumber,Fruits & Vegetables
+407950753,Raw Sugar,Grains & Pulses
+734015721,Haddock,Seafood
+536805293,Cheddar Cheese,Dairy
+21705225,Raw Sugar,Grains & Pulses
+556800982,Green Tea,Beverages
+484146162,Arabica Coffee,Beverages
+716315875,Salmon,Seafood
+345381180,Sour Cream,Dairy
+489576116,Eggplant,Fruits & Vegetables
+322610008,Heavy Cream,Dairy
+341101040,Bell Pepper,Fruits & Vegetables
+741325528,Cauliflower,Fruits & Vegetables
+157974824,Coconut,Fruits & Vegetables
+768540095,White Sugar,Grains & Pulses
+940923355,Cauliflower,Fruits & Vegetables
+991945600,Cauliflower,Fruits & Vegetables
+402058252,Multigrain Bread,Bakery
+696745387,Yogurt,Dairy
+42936969,Peach,Fruits & Vegetables
+218902826,Gouda Cheese,Dairy
+657593721,Butter Biscuit,Bakery
+363833677,Corn Oil,Oils & Fats
+845467624,Cherry,Fruits & Vegetables
+778270820,Sesame Oil,Oils & Fats
+575622358,Black Coffee,Beverages
+932188108,Heavy Cream,Dairy
+813544203,Haddock,Seafood
+576135779,Gouda Cheese,Dairy
+499198798,Evaporated Milk,Dairy
+705424269,Gouda Cheese,Dairy
+436708544,Orange,Fruits & Vegetables
+294366570,Digestive Biscuit,Bakery
+106177581,Peanut Oil,Oils & Fats
+507722613,Cheddar Cheese,Dairy
+265354727,Tilapia,Seafood
+886028210,Avocado Oil,Oils & Fats
+839663280,Mackerel,Seafood
+212521360,Corn Oil,Oils & Fats
+899224773,Whole Wheat Flour,Grains & Pulses
+158847413,Apple,Fruits & Vegetables
+822433180,Palm Oil,Oils & Fats
+338077247,Mozzarella Cheese,Dairy
+78585487,Swiss Cheese,Dairy
+273870428,Halibut,Seafood
+797410770,Mushrooms,Fruits & Vegetables
+340863222,Lemon,Fruits & Vegetables
+931663169,White Tea,Beverages
+745489313,Mango,Fruits & Vegetables
+537107630,Rice Flour,Grains & Pulses
+641197804,Bell Pepper,Fruits & Vegetables
+408109261,Green Coffee,Beverages
+915531774,Feta Cheese,Dairy
+391923521,Herbal Tea,Beverages
+638901246,Oatmeal Biscuit,Bakery
+719544501,Anchovies,Seafood
+3572313,Avocado Oil,Oils & Fats
+297567042,Digestive Biscuit,Bakery
+925518504,Raw Sugar,Grains & Pulses
+613179944,White Bread,Bakery
+32763931,Mango,Fruits & Vegetables
+22756061,Potato,Fruits & Vegetables
+729700239,Sesame Oil,Oils & Fats
+366794670,Bell Pepper,Fruits & Vegetables
+134099040,White Tea,Beverages
+884080310,Corn Oil,Oils & Fats
+573593397,Garlic,Fruits & Vegetables
+10502246,Grapes,Fruits & Vegetables
+475810363,Parmesan Cheese,Dairy
+336706797,Mackerel,Seafood
+695787930,Brown Rice,Grains & Pulses
+756724378,Pomegranate,Fruits & Vegetables
+312115803,Oatmeal Biscuit,Bakery
+498617823,Coconut,Fruits & Vegetables
+846240201,Bread Flour,Grains & Pulses
+669934234,Cucumber,Fruits & Vegetables
+9632193,Milk,Dairy
+994203592,Butter Biscuit,Bakery
+766237844,Egg (Quail),Dairy
+280038065,Almond Flour,Grains & Pulses
+280082951,Broccoli,Fruits & Vegetables
+454020421,Swiss Cheese,Dairy
+739420508,Kale,Fruits & Vegetables
+222669291,Sardines,Seafood
+60686793,Buttermilk,Dairy
+580638633,Bell Pepper,Fruits & Vegetables
+274423654,Herbal Tea,Beverages
+30439933,Strawberries,Fruits & Vegetables
+991371730,Bread Flour,Grains & Pulses
+96227119,Haddock,Seafood
+953561566,Grapes,Fruits & Vegetables
+223191377,White Sugar,Grains & Pulses
+891814523,Wild Rice,Grains & Pulses
+385559147,Black Coffee,Beverages
+536674109,Onion,Fruits & Vegetables
+144898669,All-Purpose Flour,Grains & Pulses
+260318070,Vegetable Oil,Oils & Fats
+472212470,Pomegranate,Fruits & Vegetables
+673824435,Green Beans,Fruits & Vegetables
+940292717,Broccoli,Fruits & Vegetables
+478666589,Egg (Duck),Dairy
+943553070,Tilapia,Seafood
+823427339,Vanilla Biscuit,Bakery
+804595950,Arabica Coffee,Beverages
+672486306,Cauliflower,Fruits & Vegetables
+689738812,Sweet Potato,Fruits & Vegetables
+113257396,Mango,Fruits & Vegetables
+687616907,Zucchini,Fruits & Vegetables
+625090666,Almond Flour,Grains & Pulses
+444760390,Lemon,Fruits & Vegetables
+82132058,Sour Cream,Dairy
+355292933,Broccoli,Fruits & Vegetables
+243643341,Egg (Turkey),Dairy
+656441394,Pear,Fruits & Vegetables
+884013700,Cauliflower,Fruits & Vegetables
+474417682,Digestive Biscuit,Bakery
+689772498,Grapes,Fruits & Vegetables
+375673218,Almond Flour,Grains & Pulses
+879033486,Peanut Oil,Oils & Fats
+963167600,Bell Pepper,Fruits & Vegetables
+8429790,Egg (Goose),Dairy
+961640607,Coconut Oil,Oils & Fats
+42402226,Olive Oil,Oils & Fats
+977722336,Pineapple,Fruits & Vegetables
+638225278,Pomegranate,Fruits & Vegetables
+199670632,Short Grain Rice,Grains & Pulses
+289868001,Pomegranate,Fruits & Vegetables
+441282185,Jasmine Rice,Grains & Pulses
+843277787,Egg (Chicken),Dairy
+503645828,Coconut,Fruits & Vegetables
+653682479,Egg (Turkey),Dairy
+172535688,Greek Yogurt,Dairy
+292051132,Sushi Rice,Grains & Pulses
+648548664,Peanut Oil,Oils & Fats
+666279752,Trout,Seafood
+627957801,Palm Oil,Oils & Fats
+406830283,White Sugar,Grains & Pulses
+874238486,Powdered Sugar,Grains & Pulses
+164995059,Pear,Fruits & Vegetables
+53342923,Bread Flour,Grains & Pulses
+748453299,Green Tea,Beverages
+102497928,Black Rice,Grains & Pulses
+87258156,Tilapia,Seafood
+412408856,Haddock,Seafood
+352579312,Parmesan Cheese,Dairy
+139808804,Sweet Potato,Fruits & Vegetables
+689776854,Apricot,Fruits & Vegetables
+907739557,Butter,Dairy
+893289019,Bread Flour,Grains & Pulses
+590752457,Egg (Goose),Dairy
+316276025,White Bread,Bakery
+288249017,Trout,Seafood
+68585680,Sesame Oil,Oils & Fats
+387327667,Pineapple,Fruits & Vegetables
+852373505,Green Tea,Beverages
+731176105,Brown Rice,Grains & Pulses
+464365351,Green Tea,Beverages
+563035256,Wild Rice,Grains & Pulses
+573941587,Bread Flour,Grains & Pulses
+519349117,Sardines,Seafood
+773771659,Almond Flour,Grains & Pulses
+272622437,Swiss Cheese,Dairy
+710854290,Cucumber,Fruits & Vegetables
+876751506,Strawberries,Fruits & Vegetables
+772242227,Almond Flour,Grains & Pulses
+946584945,Sweet Potato,Fruits & Vegetables
+155623712,Cauliflower,Fruits & Vegetables
+985467398,Yogurt,Dairy
+361770573,Egg (Turkey),Dairy
+393583340,Basmati Rice,Grains & Pulses
+117331756,Rice Flour,Grains & Pulses
+10262772,Blueberries,Fruits & Vegetables
+841987276,Peanut Oil,Oils & Fats
+568100550,Mackerel,Seafood
+407518635,Pineapple,Fruits & Vegetables
+143059690,Sushi Rice,Grains & Pulses
+837270814,Basmati Rice,Grains & Pulses
+710159181,Pomegranate,Fruits & Vegetables
+515725497,Orange,Fruits & Vegetables
+67974963,Pomegranate,Fruits & Vegetables
+421415718,Cheese,Dairy
+376060510,Milk,Dairy
+444809446,Sunflower Oil,Oils & Fats
+782370277,Black Tea,Beverages
+879970228,Watermelon,Fruits & Vegetables
+426743917,Whole Wheat Flour,Grains & Pulses
+281857303,Robusta Coffee,Beverages
+458522446,Salmon,Seafood
+568316199,Salmon,Seafood
+825384809,Cabbage,Fruits & Vegetables
+876980944,Banana,Fruits & Vegetables
+309642694,Peas,Fruits & Vegetables
+93357793,Powdered Sugar,Grains & Pulses
+990335661,Rice Flour,Grains & Pulses
+901287973,Black Rice,Grains & Pulses
+527976961,Tilapia,Seafood
+392325341,Arborio Rice,Grains & Pulses
+469316897,Cream,Dairy
+569378675,Cream,Dairy
+548306971,Tilapia,Seafood
+908659150,Powdered Sugar,Grains & Pulses
+428876557,Long Grain Rice,Grains & Pulses
+941905193,Carrot,Fruits & Vegetables
+4409568,Blueberries,Fruits & Vegetables
+742943760,Peanut Oil,Oils & Fats
+668066051,Yogurt,Dairy
+818442979,Broccoli,Fruits & Vegetables
+800728774,Tuna,Seafood
+800391261,Strawberries,Fruits & Vegetables
+582190241,Avocado Oil,Oils & Fats
+945288088,Haddock,Seafood
+953490828,Feta Cheese,Dairy
+30611344,Trout,Seafood
+679845368,Parmesan Cheese,Dairy
+447821395,Raw Sugar,Grains & Pulses
+759279108,Cabbage,Fruits & Vegetables
+786144402,Green Beans,Fruits & Vegetables
+19035373,Strawberries,Fruits & Vegetables
